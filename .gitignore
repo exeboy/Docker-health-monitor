@@ -1,0 +1,13 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore temporary files created by editors
+*.swp
+*~
+*.tmp
+
+# Ignore local environment variables (if you ever use them)
+.env
+
+# Ignore node_modules (if this were a node project)
+node_modules/
